@@ -1,3 +1,5 @@
+Video Explanation: https://youtu.be/7_pKKXtxkII
+
 # CIS_5_Lab_5_Winter_2026
 Practicing Structures
 
